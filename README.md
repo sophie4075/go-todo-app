@@ -12,4 +12,4 @@ This is a simple Todo application built with Go Fiber for the backend and HTML/C
 - HTML/CSS/JavaScript: Frontend technologies for user interface
 
 ## Credits ❤️
-Background-Image: Gordon Zuchhold
+Background-Image: [arkhai2](https://old.reddit.com/user/arkhai2)
