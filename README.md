@@ -10,6 +10,27 @@ This is a simple Todo application built with Go Fiber for the backend and HTML/C
 - Delete todos
 - View list of todos
 
+## Usage/Installation
+To run this little web app, you'll need to have Go installed on your machine. Follow these steps to get it running:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sophie4075/go-todo-app.git
+   
+2. Navigate to the cloned directory:
+   ```bash
+   cd go-todo-app
+   
+3. Run the server:
+   ```bash
+   go run main.go
+
+4. Type http://localhost:4000/ into your browser's address bar, hit enter and start noting your todo's :)
+
+6. Exit the app via the terminal pressing CRTL + C
+   (Please note that all todo's will be lost once the process stops running)
+   
+
 ## Tech Stack
 - Go Fiber: A web framework for Go
 - HTML/CSS/JavaScript: Frontend technologies for user interface
