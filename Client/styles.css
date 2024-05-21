@@ -1,7 +1,9 @@
 body {
     font-family: 'VT323', sans-serif;
     background-image: url("https://64.media.tumblr.com/2e25936fe6eeaf5514540623410b1e65/691d5720c30a4275-96/s1280x1920/927766909f6a2811b7b2ac99590b2e3a08908a50.gifv");
+    background-size: cover;
     background-repeat: no-repeat;
+    height: 100vh;
 
 }
 
